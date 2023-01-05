@@ -4,8 +4,8 @@
     }
     
     body{
-      background: rgb(101,243,245);
-      background: linear-gradient(0deg, rgba(101,243,245,1) 0%, rgba(42,179,255,1) 100%);
+      background: rgb(244, 246, 255);
+     
         color: rgb(255, 255, 255);
         background-repeat: no-repeat;
       margin: 0px;
@@ -50,6 +50,79 @@
     }
 
 
+.htdiv{
+
+margin-top: 100px;
+width: 100%;
+text-align: center;
+}
+
+
+
+.h1t{
+  color: #282d32;
+}
+.h2t{
+  display:inline-block ;
+  color: #282d32;
+}
+
+.pcjm{
+  color: rgb(2, 74, 156);
+  display:inline-block ;
+  width: 200px;
+  margin: 0px;
+}
+
+
+.divim{
+
+    width: 100%;
+    margin-top: 50px;
+    
+}
+
+.ulim{ display: inline-flex;
+  list-style:none; }
+
+.divimd{
+  width: 120px;
+  display: inline-block;
+  background-color: #ffffff;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  margin-left: 675px;
+}
+
+.divimd2{
+  width: 120px;
+  display: inline-block;
+  background-color: #ffffff;
+  border-radius: 30px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  margin-left: 340px;
+}
+.divimd2img{
+width: 100px;
+
+}
+.divimdimg{
+  width: 100px;
+  
+  }
+  
+  .divimd:hover,.divimd2:hover{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  }
+
+  .divimd:active,.divimd2:active{
+    box-shadow: rgb(204, 219, 232) 3px 3px 6px 0px inset, rgba(255, 255, 255, 0.5) -3px -3px 6px 1px inset;
+  }
+
+  .li2im{width: 120px;}
+
+
+  .li1im{width: 120px;}
 
 
 
@@ -68,6 +141,8 @@
 
 
 
+
+  
 
 
 
@@ -84,7 +159,7 @@
 
     
     
-    .footer-dark {
+.footer-dark {
         padding:50px 0;
         color:#f0f9ff;
         background-color:#282d32;

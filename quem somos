@@ -1,0 +1,28 @@
+ <div class="htdiv">  
+<h1 class="h1t">
+transformando o futuro da educação!
+
+</h1>
+
+<h2 class="h2t">
+ nos da<p class="pcjm">CJM startup</p>temos como objetivo transformar a educação de nossa região. Para isso desenvolvemos aplicação inovadoras que atuam diretamente no melhoramento de atividades socias e academicas de nosos usuarios. proporcionando assim melhor qualidade de prendizagem para educadores e alunos! 
+
+
+</h2>
+
+
+</div> 
+
+.h1t{
+    color: #282d32;
+  }
+  .h2t{
+    display:inline-block ;
+  }
+  
+  .pcjm{
+    color: rgb(2, 74, 156);
+    display:inline-block ;
+    width: 200px;
+    margin: 0px;
+  }
