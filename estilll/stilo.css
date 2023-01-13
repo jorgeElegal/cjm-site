@@ -14,45 +14,6 @@ body{
   font-family: 'Abel', sans-serif;
 }
 
-nav{
-    background-color: rgb(2, 74, 156);
-    border-radius: 30px;
-    width: 100%;
-    color: white;
-    box-shadow: rgba(0, 0, 0, 0.25) 0px 25px 50px -12px;
-
- 
-}
-
-
-.navbar1{
-    color: black;
-    font-size: 30px;
-    margin-left: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
-    margin-top: 5px;
-    width: 100px;
-
-
-
-}
-.navbar1:hover{
-    color: azure;
-    text-decoration: none;
-   font-family: 'Roboto Condensed', sans-serif;
-}
-a{
-    color: azure;
-    font-size: 15px;
-    font-family: 'Martel Sans', sans-serif;
-}
-#navbarNavAltMarkup{
-    margin-left: 600px;
-}
-
-
-
-
 
 .divh1{margin-top: 15%;
 margin-left: 15%;
