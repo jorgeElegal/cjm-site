@@ -16,8 +16,8 @@ body{
 
 
 .divh1{margin-top: 15%;
-margin-left: 15%;
-width: 500px;
+margin-left: 14%;
+width: 600px;
 
 display: inline-block;
 z-index: 1;
@@ -25,14 +25,14 @@ position: absolute;}
 
 
 .h1{
-    margin-left: 5%;
+    margin-left: 4%;
 
     font-family: 'Martel Sans', sans-serif;
      
      
 }
 .h12{
-    margin-left: 5%;
+    margin-left: 4%;
     font-family: 'Martel Sans', sans-serif;
    
 }
@@ -54,6 +54,7 @@ height: 70px;
 
 font-family: 'Martel Sans', sans-serif;
 display: inline-block;
+margin-top: 50px;
 }
 
 .bnt:hover{

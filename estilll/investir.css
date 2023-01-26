@@ -20,15 +20,18 @@
     }
   
 .div-img{
+  position: absolute;
 margin-top:22px;
 margin-left: -83px;
 display: inline-block;
 }
 .div-img{
     position: absolute;
+
     width: 850px;
     height: 769px;
     display: inline-block;
+    
 }
 
 
@@ -181,6 +184,106 @@ display: inline-block;
     }
 
 
+  .janela{
+    width: 700px;
+    height: 500px;
+    background: #383838;
+ position: absolute;
+ top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+border-radius: 70px;
+display: none;
+animation: animate;
+animation-duration: 100ms;
+box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  
+
+
+  }
+  @keyframes animate{
+    from{opacity: 1;}
+    from{opacity: 0;}
+  }
+
+.x{
+  width: 30px;
+  height: 30px;
+  background: #ffffff;
+  float: right;
+  margin-right: 30px;
+  margin-top: 20px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.close{
+ 
+}
+
+.div-mode{
+  width: 50%;
+  text-align: center;
+  margin-left: 175px;
+  margin-top: 30px;
+}
+
+
+.h1t-mode{
+  color: #e3e4e6;
+  font-size: 27px;
+}
+.h2t-mode{
+margin-top:  10px; ;
+  display:inline-block ;
+  color: #e3e4e6;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 34px;
+  font-weight: 400;
+}
+
+.pcjm-mod{
+  color: rgb(2, 74, 156);
+  display:inline-block ;
+  width: 200px;
+  margin: 0px;
+}
+.div-mode-div{
+ 
+  margin-top: 40px;
+margin-left: 175px;
+}
+
+.div-mode-div-m{
+  width: 50%;
+  height: 40px;
+  background-color: #e3e4e6;
+  border-radius: 30px;
+}
+
+
+
+
+.div-mode-div-m2{
+  width: 50%;
+  height: 40px;
+  background-color: #e3e4e6;
+  border-radius: 30px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
 
 
 
@@ -191,7 +294,7 @@ display: inline-block;
     padding:50px 0;
     color:#f0f9ff;
     background-color:#282d32;
-    margin-top: 800px;
+    margin-top: 200px;
     border-radius: 30px;
   }
   
