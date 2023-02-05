@@ -10,7 +10,7 @@
   }
     
     body{
-      background: rgb(255, 255, 255);
+      background: rgb(230, 245, 252);
      
         color: rgb(255, 255, 255);
         background-repeat: no-repeat;
@@ -44,12 +44,13 @@ align-items: center;
     
     .h1t{
       color: #1d1e1f;
+      font-size: 32px;
     }
     .h2t{
       margin-top: 20px;
       display:inline-block ;
       color: #1d1e1f;
-      font-size: 22px;
+      font-size: 19px;
       line-height: 41px;
     }
     
@@ -109,6 +110,7 @@ margin-top: 20px;
 color: rgb(2, 74, 156) ;
 
 text-align: center;
+font-size: 25px;
 }
 
 .div3nossas-missõ{
@@ -121,7 +123,7 @@ color: #282d32;
 
 .h2t3{
 
-font-size: 32px;
+font-size: 25px;
   margin-top: 20px;
   
   color: rgb(2, 74, 156) ;
@@ -139,7 +141,7 @@ position: absolute;
 
 .h2t31{
 
-  font-size: 32px;
+  font-size: 25px;
     margin-top: 200px;
     
     color: rgb(2, 74, 156) ;
@@ -150,15 +152,15 @@ position: absolute;
     margin-top: 500%;
     width: 40%;
    
-  margin-top: 20px; 
+  margin-top: 40px; 
   position: absolute;
   
   }
 
   .texto-nossas-n-h31{
-font-size: 22px;
+font-size: 19px;
 margin-left: 20%;
-margin-top: 50px;
+margin-top: 20px;
 display: inline-block;  
 line-height: 41px;
   }
@@ -188,7 +190,7 @@ margin-top: 50px;
 
   width: 205px;
   height: 243px;
-  margin-top: 31px;
+  margin-top: 30px;
   margin-left: 37px;
   position: absolute;
   background: #F5F5F5;
@@ -249,44 +251,45 @@ margin-top: 100px;
   width: 1114px;
   height: 382px;
   margin-left: 109px;
-  background: #F5F5F5;
+  background: #383838;
   border-radius: 70px;
-  box-shadow: -19px -34px 0px 12px rgba(56, 56, 56, 1);
-  -webkit-box-shadow: -19px -34px 0px 12px rgba(56, 56, 56, 1);
-  -moz-box-shadow: -19px -34px 0px 12px rgba(56, 56, 56, 1);
-  margin-top: 100px;
+
+  margin-top: 70px;
 }
 .div5-c-equipe-box-1{
   width: 269px;
   height: 391px;
-  background: #383838;
+  background: #F5F5F5;
   border-radius: 70px;
   margin-top: 59px;
   margin-left: 137px;
   position: absolute;
   display: inline-block;  
+  color: #383838;
 }
 
 
 .div5-c-equipe-box-2{
   width: 269px;
   height: 391px;
-  background: #383838;
+  background: #F5F5F5;
   border-radius: 70px;
   margin-top: 59px;
   margin-left: 420px;
   display: inline-block;  
+  color: #383838;
 }
 
 
 .div5-c-equipe-box-3{
   width: 269px;
   height: 391px;
-  background: #383838;
+  background: #F5F5F5;
   border-radius: 70px;
   margin-top: 59px;
   margin-left: 10px;
-  display: inline-block;  
+  display: inline-block; 
+  color: #383838; 
 }
 
 .div6-c-equipe{
@@ -343,7 +346,7 @@ margin-top: 170px;
   border-color:#353F45 ;
   border-radius: 70px;
   margin-top: 15px;
-  margin-left: 4px;
+  margin-left: 20px;
   display: inline-block;
     color: #1d1e1f;
   display: flex;
@@ -362,7 +365,7 @@ margin-top: 170px;
   margin-top: 15px;
   
   display: inline-block;  
-  margin-left: 4px;
+  margin-left: 20px;
   color: #1d1e1f;
   display: flex;
   flex-direction: row;

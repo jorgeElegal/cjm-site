@@ -66,7 +66,7 @@ font-family: 'Martel Sans', sans-serif;
 margin-top:  20px; ;
   display:inline-block ;
   color: #1d1e1f;
-  font-size: 22px;
+  font-size: 19px;
   font-weight: 400;
   line-height: 34px;
   font-weight: 400;
@@ -91,7 +91,7 @@ margin-top:  20px; ;
     background: rgb(2, 74, 156);
 margin-left: 670px;
 color: azure;
-margin-top: 31px;
+margin-top: 40px;
 
 width: 250px;
 height: 100px;
@@ -113,6 +113,10 @@ display: inline-block;
 .bnt-img{
     width: 200px;
 }
+.bnt-img2{
+  width: 140px;
+height: 100px;
+}
 
 
 .bnt2{
@@ -121,7 +125,7 @@ display: inline-block;
     background: rgb(2, 74, 156);
 margin-left: 950px;
 color: azure;
-margin-top: 31px;
+margin-top: 40px;
 
 width: 250px;
 height: 100px;
@@ -194,17 +198,13 @@ left: 50%;
 transform: translate(-50%, -50%);
 border-radius: 70px;
 display: none;
-animation: animate;
-animation-duration: 100ms;
+
 box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   
 
 
   }
-  @keyframes animate{
-    from{opacity: 1;}
-    from{opacity: 0;}
-  }
+
 
 .x{
   width: 30px;
@@ -243,7 +243,8 @@ margin-top:  10px; ;
   font-size: 20px;
   font-weight: 400;
   line-height: 34px;
-  font-weight: 400;
+
+
 }
 
 .pcjm-mod{

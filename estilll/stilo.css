@@ -15,7 +15,7 @@ body{
 }
 
 
-.divh1{margin-top: 15%;
+.divh1{margin-top: 17%;
 margin-left: 14%;
 width: 600px;
 
@@ -78,11 +78,11 @@ margin-top: 50px;
 .img1{
 width: 700px;
 z-index: -1;
-margin-top: 100px;
+margin-top: 70px;
 margin-left: 10;
 }
 .img1:hover{
-  margin-top: 90px;
+  margin-top: 60px;
   width: 710px;
 
 }

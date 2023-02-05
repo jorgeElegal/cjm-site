@@ -35,13 +35,14 @@ font-family: 'Martel Sans', sans-serif;
 .h1t{
   color: #1d1e1f;
   margin-top: 30px ;
-  font-size: 30px;
+  font-size: 32px;
   line-height: 50px;
 }
 .h2t{
   display:inline-block ;
   color: #1d1e1f;
-  font-size: 25px;
+  font-size: 19px;
+  margin-top: 40px;
 }
 
 .pcjm{
@@ -76,7 +77,7 @@ text-align: center;
 .divimd{
   width: 170px;
   display: inline-block;
-  background-color: #ffffff;
+  background-color: #66B5F7;
   border-radius: 30px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   margin-left: 645px;
@@ -282,75 +283,6 @@ position: absolute;
 margin-left: 15%;
 display: inline-block;
 }
-
-
-
-.bntdiv{
-width: 100%;
-display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-margin-top:  50px;
-}
-
-
-.bnt{
-  border-style: none;
-  border-radius: 30px;
-  background: rgb(2, 74, 156);
-
-color: azure;
-
-
-width: 200px;
-height: 70px;
-
-font-family: 'Martel Sans', sans-serif;
-display: inline-block;
-}
-
-.bnt:hover{
- 
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-  cursor: pointer;
-}
-.bnt:active{
-  box-shadow: rgb(0, 0, 0) 3px 3px 6px 0px inset, rgba(0, 0, 0, 0.5) -3px -3px 6px 1px inset;
-  
-}
-
-
-
-
-
-
-.bnt2{
-  border-style: none;
-  border-radius: 30px;
-  background: rgb(2, 74, 156);
-
-color: azure;
-
-
-width: 200px;
-height: 70px;
-
-font-family: 'Martel Sans', sans-serif;
-display: inline-block;
-}
-
-.bnt2:hover{
- 
-  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
-  cursor: pointer;
-}
-.bnt2:active{
-  box-shadow: rgb(0, 0, 0) 3px 3px 6px 0px inset, rgba(0, 0, 0, 0.5) -3px -3px 6px 1px inset;
-  
-}
-
-
 
 
 
